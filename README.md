@@ -1,0 +1,5 @@
+ofxJSONSettings
+=========
+
+Notes
+-----
